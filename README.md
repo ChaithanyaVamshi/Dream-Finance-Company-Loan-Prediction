@@ -10,9 +10,7 @@ Below are the steps that are performed in this project:
 2. Hypothesis Generation
 3. loading the data
 4. Understanding the data
-5. Exploratory Data Analysis (EDA)
-   a) Univariate Analysis
-   b) Bivariate Analysis
+5. Exploratory Data Analysis (Univariate Analysis & Bivariate Analysis)
 6. Missing value and outlier treatment
 7. Model Building
 8. Evaluation Metrics for classification problems
